@@ -1,0 +1,36 @@
+.container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 25px;
+  text-align: center;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  font-size: 3rem;
+}
+p {
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+.btn {
+  margin-top: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  color: #fff;
+  padding: 5px 25px;
+  margin: 10px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  width: 300px;
+  border-radius: 2rem;
+  background-color: #c9426a;
+}
+button:hover {
+  color: #333;
+  background-color: #e9b1c2;
+}
